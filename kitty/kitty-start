@@ -1,0 +1,6 @@
+# This file will house the startup config for kitty
+
+# First Tab
+launch --title "Main"
+
+os_window_state fullscreen
